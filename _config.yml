@@ -8,7 +8,7 @@ name: "name"
 # 网站副标题
 description: "架起女性与编程的桥梁"
 
-aboutme: "我的生活，工作 😉🍕🎧"
+aboutme: "我的生活，学习 😉🍕🎧"
 
 # 其它配置, 可忽略, 无需修改
 markdown: kramdown

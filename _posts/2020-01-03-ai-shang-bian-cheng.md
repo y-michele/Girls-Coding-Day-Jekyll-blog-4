@@ -2,7 +2,7 @@
 layout: post
 title:  "Q&A"
 background: "/assets/images/100.jpg"
-category: "工作"
+category: "学习"
 tags: 感悟
 ---
 
