@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "强棒介绍"
+title:  "强棒天使项目简介"
 background: "/assets/images/400.jpg"
 category: "工作"
 tags: 感悟
 ---
 
-# 强棒天使项目简介
 
 2021年3月
 

@@ -11,7 +11,7 @@ layout: homepage
           <div class="decorline3"></div>
         </h3>
 
-        <p class="post-date">{{ my_post.date | date: "%B %-d, %Y" }}</p>
+        <!-- <p class="post-date">{{ my_post.date | date: "%B %-d, %Y" }}</p> -->
         {% if my_post.background %}
         <img class="post-bg" src="{{ my_post.background | prepend: site.baseurl }}"></img>
         {% endif %}
